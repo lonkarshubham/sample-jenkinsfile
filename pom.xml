@@ -64,8 +64,8 @@
            
     <distributionManagement>     
        <repository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/AoliaFth9cJRGJnN5U3V/</url>
+            <id>lonkarshubham</id>
+            <url>https://github.com/lonkarshubham/sample-jenkinsfile.git</url>
         </repository>
          
     </distributionManagement>
