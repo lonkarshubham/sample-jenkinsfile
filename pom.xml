@@ -63,7 +63,7 @@
     <distributionManagement>
       <repository>
         <id>sample-jenkinsfile</id>
-        <url>https://github.com/lonkarshubham/sample-jenkinsfile.git</url>
+        <url>https://github.com/lonkarshubham/sample-jenkinsfile/</url>
       </repository>
     </distributionManagement>
 
