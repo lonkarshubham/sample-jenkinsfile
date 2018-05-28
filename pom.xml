@@ -60,6 +60,11 @@
 
     </dependencies>
 
-   
+    <distributionManagement>
+      <repository>
+        <id>sample-jenkinsfile</id>
+        <url>https://github.com/lonkarshubham/sample-jenkinsfile.git</url>
+      </repository>
+    </distributionManagement>
 
 </project>
