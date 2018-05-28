@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.techprimers.testing</groupId>
+    <groupId>com.samplejenkinsfile.testing</groupId>
     <artifactId>jenkins-example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -64,8 +64,8 @@
            
     <distributionManagement>     
        <repository>
-            <id>lonkarshubham</id>
-            <url>https://github.com/lonkarshubham/sample-jenkinsfile.git</url>
+            <id>myMavenRepo.write</id>
+            <url>https://mymavenrepo.com/repo/AoliaFth9cJRGJnN5U3V/</url>
         </repository>
          
     </distributionManagement>
